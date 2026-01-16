@@ -1,0 +1,7 @@
+{
+  "name": "madipath-health-guide",
+  "description": "MadiPath - A public health-guidance tool providing clear, responsible next steps for common symptoms. Created by Abdulloh Temirov.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
